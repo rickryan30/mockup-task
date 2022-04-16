@@ -1,0 +1,60 @@
+/* header */
+.btn-outline-secondary {
+    color: #ffffff;
+    border: 1px solid #ffffff8c;
+    border-radius: 0;
+}
+/* end of header */
+
+/* login */
+.form-box {
+    margin-top: 40px;
+    border: 1px solid #cecaca;
+    padding: 40px;
+    border-radius: 5px;
+    background-color: #f4f4f4;
+    box-shadow: 2px 2px 8px 0 rgb(0 0 0 / 20%);
+}
+/* end of login */
+
+/* table */
+#myTable thead tr th {
+    text-align: center;
+}
+
+#myTable tbody tr td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+table.dataTable.no-footer {
+    border: 1px solid #d5d2d2;
+}
+
+div#myTable_length {
+    margin-bottom: 16px;
+}
+
+table.dataTable tbody th, table.dataTable tbody td {
+    border: 1px solid #d5d2d2;
+}
+
+/* end of table */
+
+/* dashboard/index table */
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #212529;
+}
+
+.nav-link {
+    color: #212529;
+    font-weight: 500;
+}
+/* end of dashboard/index table */
+
+/* info */
+.card.card-shadow {
+    box-shadow: 2px 2px 8px 0 rgb(0 0 0 / 20%);
+    width: 50%;
+}
+/* end of info */
